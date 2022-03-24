@@ -1,11 +1,20 @@
-# Sample Snack app
+# Подготовка среды. Hello World на React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Цель работы
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+- Получить навыки настройки среды для отладки приложений на React Native.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Задания для выполнения
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+- Перейдите на сайт https://snack.expo.io/ и установите на телефон приложение Expo. Отсканируйте QR-код и синхронизируйте Expo-редактор и ваше устройство.
+- Используя стрелочную функцию (или класс), задайте компонент, который выведет на экран вашего устройства Hello World.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# Контрольные вопросы
+
+- Можно ли писать в React Native все на JS? ✅ Да, можно, но интерфейс остается полностью нативным.
+
+- Есть ли в React Native объект кнопка? ✅ Да, есть, для того, чтобы использовать, нужно импортировать: import { Button } from 'react-native'. Так же - можно задать текст, цвет и прочие параметры.
+
+![image](IMG_5511.PNG)
+
+![image](IMG_5510.PNG)
