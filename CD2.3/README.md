@@ -1,11 +1,25 @@
-# Sample Snack app
+# Основные компоненты React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Цель работы
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+- Получить навыки работы с основными компонентами в React Native.
+## Задания для выполнения
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- Используя официальную документацию https://reactnative.dev/docs/components-and-apis#user-interface создайте экран с тремя и более основными компонентами
+## Контрольные вопросы
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+- Какой компонент является базовым?
+- вертикальный ScrollView
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Резульат
+
+![image](123.PNG)
+
+![image](124.PNG)
+
+![image](126.PNG)
+
+![image](125.PNG)
+
+
+В приложении используется несколько ScrollView - горизонтальный и вертикальный, а также Button, Alert, View, Stylesheet, Text
